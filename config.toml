@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https:/latinxperts.github.io"
+baseURL = "https://joelmartinezrev.github.io/latinxperts.github.io/"
 title = "LatinXperts 🍍"
 theme = "bookworm-light"
 # post pagination
